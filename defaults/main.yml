@@ -1,0 +1,7 @@
+---
+logrotate_rules:
+  - daily
+  - rotate 400
+  - create
+  - dateext
+  - compress
